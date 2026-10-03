@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=S-ver&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Backend%20%26%20APIs-blue?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-green?style=flat-square" alt="Status" />
 </p>
